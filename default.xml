@@ -417,6 +417,7 @@
   <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-10.1" />
   <project path="vendor/samsung" name="vendor_samsung" remote="cx" revision="master" />
   <project path="vendor/qcom" name="proprietary_vendor_qcom" remote="cx" revision="jb2" />
+  <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-10.1" />
   <project path="vendor/motorola/xt926" name="android_vendor_motorola_xt926" remote="rz" revision="cm-10.1" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-10.1" />
