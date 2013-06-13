@@ -420,6 +420,7 @@
   <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="cm" revision="cm-10.1" />
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-10.1" />
   <project path="vendor/motorola/xt926" name="android_vendor_motorola_xt926" remote="rz" revision="cm-10.1" />
+  <project path="vendor/motorola/msm8960-common" name="android_vendor_motorola_msm8960-common" remote="rz" revision="cm-10.1" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cx" revision="cm-10.1" />
