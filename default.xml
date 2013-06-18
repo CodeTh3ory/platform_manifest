@@ -81,6 +81,7 @@
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/m7att" name="device_htc_m7att" remote="cx" revision="master" />
   <project path="device/htc/m7tmo" name="device_htc_m7tmo" remote="cx" revision="master" />
+  <project path="device/htc/m7spr" name="device_htc_m7spr" remote="cx" revision="master" />
   <project path="device/htc/m7-common" name="android_device_htc_m7-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="cx" revision="master" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cr" revision="jb2" />
